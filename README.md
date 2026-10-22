@@ -2,18 +2,17 @@
 
 <h1 align="center">Hey, I'm Jay Jalu 👋</h1>
 
-<h3 align="center">Full-Stack Software Engineer · Angular · React · Node.js</h3>
+<h3 align="center">Full-Stack Software Engineer | Angular · React · Node.js</h3>
 
 <p align="center">
   Building reliable web applications, intuitive user experiences, and maintainable backend services.
 </p>
 
 <p align="center">
-  <a href="https://github.com/jayjalu">
-    <img src="https://img.shields.io/badge/GitHub-jayjalu-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
-  </a>
+  <a href="https://github.com/jayjalu"><img src="https://img.shields.io/badge/GitHub-jayjalu-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
   <img src="https://img.shields.io/badge/Experience-8%2B%20Years-0A7EA4?style=for-the-badge" alt="8+ years of experience" />
   <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-6C5CE7?style=for-the-badge" alt="Full-stack development" />
+  <a href="https://www.linkedin.com/in/jay-jalu/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn" /></a>
 </p>
 
 ---
@@ -24,11 +23,11 @@ I'm a software engineer with **8+ years of experience** working across frontend 
 
 My experience includes building and improving enterprise web applications, data-heavy screens and dashboards, configurable tables and filters, and API-driven workflows. I care about the details that make software dependable: predictable state, useful error handling, performance, testing, and a clean developer experience.
 
-- 🧩 **Frontend:** Building structured, responsive applications with Angular, React, and Next.js.
-- ⚙️ **Backend:** Developing and learning deeper patterns for Node.js services and REST APIs.
-- 🗄️ **Data:** Working with application data and strengthening PostgreSQL and MongoDB skills.
-- ☁️ **Cloud:** Expanding practical knowledge of Google Cloud Platform and data-processing services.
-- 🤖 **Developer productivity:** Exploring AI-assisted coding tools and MCP-based workflows to improve everyday engineering tasks.
+- 🧩 **Frontend:** Angular, React, Next.js, TypeScript, and JavaScript.
+- ⚙️ **Backend:** PHP and Node.js ecosystem; continuing to deepen backend architecture and API design skills.
+- 🗄️ **Data:** Application data workflows with a focus on PostgreSQL and MongoDB learning.
+- ☁️ **Cloud:** Building hands-on knowledge of Google Cloud Platform and data-processing services.
+- 🤖 **Developer productivity:** AI-assisted coding tools and MCP-based workflows.
 - 🌱 **Current focus:** Node.js, PostgreSQL, MongoDB, and GCP fundamentals.
 
 ---
@@ -148,7 +147,7 @@ I'm using this profile to showcase practical work—not just list technologies. 
 I'm interested in connecting with engineers, teams, and recruiters working on meaningful web products and full-stack engineering challenges.
 
 - 💻 GitHub: [github.com/jayjalu](https://github.com/jayjalu)
-- 💼 LinkedIn: **Add your LinkedIn profile URL**
+- 💼 LinkedIn: [linkedin.com/in/jay-jalu](https://www.linkedin.com/in/jay-jalu/)
 
 ---
 
