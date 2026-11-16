@@ -1,156 +1,63 @@
-<!-- Profile README for github.com/jayjalu -->
+# Jay Jalu
 
-<h1 align="center">Hey, I'm Jay Jalu 👋</h1>
+### Senior Software Engineer | Frontend Architecture | React.js · Angular · TypeScript · Node.js
 
-<h3 align="center">Full-Stack Software Engineer | Angular · React · Node.js</h3>
+I’m a software engineer with **8+ years of experience** building enterprise web applications across frontend and full-stack development. My core strength is frontend engineering with **Angular, React.js, TypeScript, and JavaScript**, supported by hands-on experience in Node.js, Express, PHP/Laravel, databases, and delivery automation.
 
-<p align="center">
-  Building reliable web applications, intuitive user experiences, and maintainable backend services.
-</p>
+I focus on turning product requirements into maintainable applications through modular architecture, reusable UI components, predictable state management, API integration, performance improvements, and reliable release workflows.
 
-<p align="center">
-  <a href="https://github.com/jayjalu"><img src="https://img.shields.io/badge/GitHub-jayjalu-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
-  <img src="https://img.shields.io/badge/Experience-8%2B%20Years-0A7EA4?style=for-the-badge" alt="8+ years of experience" />
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-6C5CE7?style=for-the-badge" alt="Full-stack development" />
-  <a href="https://www.linkedin.com/in/jay-jalu/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn" /></a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/jay-jalu/) · [GitHub](https://github.com/jayjalu)
 
 ---
 
-## 👨‍💻 About Me
+## Engineering focus
 
-I'm a software engineer with **8+ years of experience** working across frontend and backend development. I enjoy turning complex requirements into practical software through thoughtful UI design, reusable components, API integration, and maintainable code.
+- **Frontend:** Angular, React.js, Next.js, TypeScript, JavaScript (ES6+), RxJS, NgRx, HTML5, CSS3/SCSS, Tailwind CSS
+- **Architecture:** Micro Frontends, Webpack Module Federation, reusable component design, RESTful API integration
+- **Backend:** Node.js, Express.js, PHP, Laravel, REST APIs, WebSockets, JWT/OAuth concepts
+- **Databases:** MongoDB, MySQL, PostgreSQL
+- **DevOps & delivery:** Docker, GitHub Actions, GitLab CI, Git, CI/CD workflows
+- **AI-assisted development:** Ollama, prompt engineering, Claude Code, GitHub Copilot
 
-My experience includes building and improving enterprise web applications, data-heavy screens and dashboards, configurable tables and filters, and API-driven workflows. I care about the details that make software dependable: predictable state, useful error handling, performance, testing, and a clean developer experience.
+## Selected project experience
 
-- 🧩 **Frontend:** Angular, React, Next.js, TypeScript, and JavaScript.
-- ⚙️ **Backend:** PHP and Node.js ecosystem; continuing to deepen backend architecture and API design skills.
-- 🗄️ **Data:** Application data workflows with a focus on PostgreSQL and MongoDB learning.
-- ☁️ **Cloud:** Building hands-on knowledge of Google Cloud Platform and data-processing services.
-- 🤖 **Developer productivity:** AI-assisted coding tools and MCP-based workflows.
-- 🌱 **Current focus:** Node.js, PostgreSQL, MongoDB, and GCP fundamentals.
+The projects below summarize product work described in my professional experience. They are **portfolio case studies, not public source-code repositories**. The previews are conceptual representations created for this portfolio and are not screenshots of production systems.
 
----
+| Project | Product area | Technologies |
+|---|---|---|
+| [IRMA Analysis](projects/irma-analysis.md) | Healthcare risk assessment & compliance | Angular, Node.js, REST APIs |
+| [Atmosphere LMS](projects/atmosphere-lms.md) | Enterprise learning management | Angular, Node.js, Docker |
+| [Xloter](projects/xloter.md) | Sports venue booking | Next.js, React Native, Node.js |
+| [CITA](projects/cita.md) | Legal services marketplace | Angular, Node.js, Express |
+| [Beer50](projects/beer50.md) | E-commerce & delivery | Angular, Node.js, MongoDB |
+| [JustBeFlex](projects/justbeflex.md) | Professional networking & community | Angular, Node.js, MongoDB |
 
-## 🛠️ Technology Stack
+### Conceptual project previews
 
-### Frontend Engineering
+![Conceptual portfolio previews for six project case studies](assets/project-concept-board.svg)
 
-<p>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222222" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-</p>
+## Professional experience
 
-- Component-driven UI development and reusable design patterns
-- Forms, routing, state management, and API integration
-- Data tables, filtering, sorting, pagination, and responsive layouts
-- Debugging, maintainability, and frontend performance
+- **Matrixbrains Pvt Ltd** — Senior Software Engineer | May 2024 – Present
+- **Crenspire Technologies** — Software Engineer | July 2020 – April 2024
+- **Solution Analysts** — Software Engineer | April 2019 – June 2020
+- **Scalable Labs** — Web Developer (Backend & Full-Stack) | February 2018 – March 2019
 
-### Backend Engineering
+## Engineering practices
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat-square" alt="REST APIs" />
-</p>
+- Building modular frontend applications and shared UI patterns.
+- Managing complex application state with NgRx and RxJS.
+- Integrating frontend applications with REST APIs and real-time workflows.
+- Containerizing services and supporting automated CI/CD pipelines.
+- Applying AI-assisted workflows to accelerate routine engineering tasks and support code quality.
 
-- REST API design and frontend/backend integration
-- Request validation, consistent errors, and authentication concepts
-- Asynchronous JavaScript, Promises, and event-loop fundamentals
-- Maintainable service and module structure
+## Contact
 
-### Databases
+I’m interested in senior frontend and full-stack engineering opportunities involving modern web applications, frontend architecture, and product-focused development.
 
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
-
-Currently deepening my practical skills in relational data modeling, SQL queries, indexing, document modeling, aggregation, and query performance.
-
-### Cloud, Tools & AI-Assisted Development
-
-<p>
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
-</p>
-
-- Git-based collaboration and code review workflows
-- AI-assisted development with tools such as GitHub Copilot and Claude Code
-- Learning GCP services including **Pub/Sub, BigQuery, and Dataflow**
-- Interested in practical automation, CI/CD, and reliable delivery workflows
+- LinkedIn: [linkedin.com/in/jay-jalu](https://www.linkedin.com/in/jay-jalu/)
+- GitHub: [github.com/jayjalu](https://github.com/jayjalu)
 
 ---
 
-## 🧠 What I Bring to a Team
-
-| Area | How I contribute |
-| --- | --- |
-| Product-focused engineering | Translate requirements into maintainable, user-friendly application features |
-| Frontend quality | Build reusable components and consistent interaction patterns |
-| Integration | Connect UI workflows to APIs and handle loading, empty, and error states |
-| Debugging | Investigate issues methodically and validate fixes across relevant scenarios |
-| Code quality | Prefer readable code, focused changes, and avoiding unnecessary complexity |
-| Continuous learning | Build on existing experience while expanding backend, database, cloud, and AI skills |
-
----
-
-## 🚀 What I'm Learning Now
-
-I'm strengthening my full-stack capabilities through practical study and hands-on examples:
-
-1. **Node.js:** event loop, asynchronous patterns, API architecture, authentication, testing, and error handling.
-2. **PostgreSQL:** schema design, joins, indexes, transactions, and query optimization.
-3. **MongoDB:** document modeling, indexes, aggregation pipelines, and application integration.
-4. **Google Cloud:** core services, Pub/Sub messaging, BigQuery analytics, and Dataflow pipelines.
-
-My goal is to connect these skills into end-to-end applications with clear documentation, tests, and deployment instructions.
-
----
-
-## 📌 Portfolio & Featured Projects
-
-I'm using this profile to showcase practical work—not just list technologies. Featured repositories will include projects with source code, setup instructions, architecture notes, tests, and screenshots or demos where available.
-
-- **Full-stack application** — frontend, Node.js API, database integration, validation, and testing.
-- **Backend API project** — REST endpoints, authentication, pagination, error handling, and database queries.
-- **Cloud data pipeline** — a learning project demonstrating Pub/Sub, Dataflow, and BigQuery.
-
-*Project links will be added here as each repository is ready to share.*
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jayjalu&show_icons=true&hide_border=true&rank_icon=github" alt="Jay's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayjalu&layout=compact&hide_border=true" alt="Most used languages on GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jayjalu&hide_border=true" alt="GitHub contribution streak" />
-</p>
-
----
-
-## 🤝 Let's Connect
-
-I'm interested in connecting with engineers, teams, and recruiters working on meaningful web products and full-stack engineering challenges.
-
-- 💻 GitHub: [github.com/jayjalu](https://github.com/jayjalu)
-- 💼 LinkedIn: [linkedin.com/in/jay-jalu](https://www.linkedin.com/in/jay-jalu/)
-
----
-
-<p align="center">
-  <i>Build with purpose. Keep learning. Improve one iteration at a time.</i>
-</p>
+*Project descriptions are based on my stated professional contributions. Company-owned source code, credentials, customer information, and confidential implementation details are intentionally not included.*
